@@ -24,3 +24,6 @@ Steps to run.
             "degree": "10"
         }
     }
+
+The Application is Dockerized and docker image is available at https://hub.docker.com/r/sainisimranjeet/myapi/.
+Run the image and use postman to evaluate the end points. For database, Amazon RDS is used create an instance of RDS and replace the instance url in application-prod file in Resources. 
